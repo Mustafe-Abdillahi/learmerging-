@@ -1,1 +1,1 @@
-When you run git merge <branch>, Git takes the commits from <branch> and integrates them into your current branch.
+When you run git merge mergingonce, Git takes the commits from <branch> and integrates them into your current branch.
